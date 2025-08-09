@@ -20,3 +20,17 @@ Route::post('/superadmin/logout', [SuperAdminLoginController::class, 'logout'])-
 
 Route::get('/superadmin/register', [SuperAdminRegisterController::class, 'showRegisterForm'])->name('superadmin.register');
 Route::post('/superadmin/register', [SuperAdminRegisterController::class, 'register']);
+
+// Super Admin Dashboard
+Route::get('/superadmin/dashboard', function () {
+    $gmCount = \App\Models\User::where('role', 'gm')->count() + 1;
+    return view('admin.dashboard', compact('gmCount'));
+})->middleware('auth')->name('superadmin.dashboard');
+
+// GM Registration (handled by Super Admin)
+Route::post('/gm/register', [App\Http\Controllers\Auth\GMRegisterController::class, 'register'])->name('gm.register');
+
+// GM Login (simple view, you can create resources/views/gm/login.blade.php)
+Route::get('/gm/login', function () {
+    return view('gm.login');
+})->name('gm.login');

@@ -12,7 +12,7 @@ class SuperAdminRegisterController extends Controller
 {
     public function showRegisterForm()
     {
-        return view('superadmin.register');
+        return view('admin.Registration');
     }
 
     public function register(Request $request)
@@ -27,7 +27,8 @@ class SuperAdminRegisterController extends Controller
             'name'     => $request->name,
             'email'    => $request->email,
             'password' => Hash::make($request->password),
-            'role'     => 'superadmin',
+            'role'     => 'superadmin', // This is the key line!
+            'status'   => 'approved', // Add this line
         ]);
 
         Auth::login($user);

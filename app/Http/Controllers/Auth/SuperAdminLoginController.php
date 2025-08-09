@@ -10,7 +10,7 @@ class SuperAdminLoginController extends Controller
 {
     public function showLoginForm()
     {
-        return view('superadmin.login');
+        return view('admin.Login');
     }
 
     public function login(Request $request)
@@ -23,7 +23,7 @@ class SuperAdminLoginController extends Controller
         // Add role check
         if (Auth::attempt(['email' => $credentials['email'], 'password' => $credentials['password'], 'role' => 'superadmin'])) {
             $request->session()->regenerate();
-            return redirect('/')->with('success', 'Logged in as Super Admin!');
+            return redirect()->route('superadmin.dashboard')->with('success', 'Logged in as Super Admin!');
         }
 
         return back()->withErrors([
