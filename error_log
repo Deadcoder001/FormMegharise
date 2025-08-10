@@ -1,0 +1,228 @@
+[10-Aug-2025 12:06:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:06:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:07:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:08:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:10:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:11:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:12:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:12:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:12:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:12:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:13:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:13:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:13:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:14:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:14:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:15:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:15:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:16:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/gm_create.php(34): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:16:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/gm_create.php(34): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:16:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/gm_create.php(34): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:16:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/gm_create.php(34): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:19:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 12:22:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:16
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(16): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 16
+[10-Aug-2025 14:29:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'admin' for key 'username' in /home2/wearbmls/form.megharice.assamcareerhub.com/register.php:10
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/register.php(10): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/register.php on line 10
+[10-Aug-2025 14:31:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'admin' for key 'username' in /home2/wearbmls/form.megharice.assamcareerhub.com/register.php:10
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/register.php(10): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/register.php on line 10
+[10-Aug-2025 14:31:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'admin' for key 'username' in /home2/wearbmls/form.megharice.assamcareerhub.com/register.php:10
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/register.php(10): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/register.php on line 10
+[10-Aug-2025 14:33:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'admin' for key 'username' in /home2/wearbmls/form.megharice.assamcareerhub.com/register.php:10
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/register.php(10): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/register.php on line 10
+[10-Aug-2025 14:38:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'admin' for key 'username' in /home2/wearbmls/form.megharice.assamcareerhub.com/register.php:10
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/register.php(10): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/register.php on line 10
+[10-Aug-2025 14:44:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wearbmls_formMegharise.sellers' doesn't exist in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:18
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(18): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): seller_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 18
+[10-Aug-2025 14:48:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:18
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(18): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 18
+[10-Aug-2025 14:48:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:18
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(18): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 18
+[10-Aug-2025 14:48:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:18
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(18): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 18
+[10-Aug-2025 14:48:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:18
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(18): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 18
+[10-Aug-2025 14:48:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php:18
+Stack trace:
+#0 /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php(18): mysqli->query('SELECT COUNT(*)...')
+#1 /home2/wearbmls/form.megharice.assamcareerhub.com/navbar.php(9): vendor_notifications(Object(mysqli))
+#2 /home2/wearbmls/form.megharice.assamcareerhub.com/dashboard.php(11): include('/home2/wearbmls...')
+#3 {main}
+  thrown in /home2/wearbmls/form.megharice.assamcareerhub.com/functions.php on line 18
